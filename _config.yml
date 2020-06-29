@@ -40,6 +40,7 @@ projects:
 # stackoverflow: your_user_id
 # telegram: your_username
 # twitter: your_username
+twitter: OrzVap
 # unsplash: your_username
 # vk: your_username
 # website: http://your_website_url
@@ -53,7 +54,7 @@ topics:
   - name: React
     web_url: https://github.com/topics/react
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
-    
+
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
